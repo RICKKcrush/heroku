@@ -32,7 +32,7 @@ django-admin startapp app_second
 
 # Создание суперпользователя
 # python manage.py createsuperuser
-python manage.py createsuperuser --username Bogdan --email bogdandrienko@gmail.com
+python manage.py createsuperuser --username sanzhar --email sanzharoserbek@gmail.com
 
 # создание миграций к базе данных
 python manage.py makemigrations
